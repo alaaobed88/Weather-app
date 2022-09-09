@@ -11,7 +11,7 @@ body{
     display:flex;
     justify-content: center;
     align-items: center;
-    background: url(../Weather-app/andre-benz-qi2hmCwlhcE-unsplash.jpg);
+    background: url(C:/Users/alaao/Desktop/andre-benz-qi2hmCwlhcE-unsplash.jpg);
     background-size: cover;
     
 }
@@ -30,6 +30,7 @@ body{
     -moz-border-radius:10px;
     -ms-border-radius:10px;
     -o-border-radius:10px;
+   
     }
 
 input,button{
@@ -98,7 +99,7 @@ font-size:1.5rem;
 }
 
 .description{
-    font-size:0.8rem;
+    font-size:1rem;
     font-weight:400;
     margin-top:1.6rem;
 }
