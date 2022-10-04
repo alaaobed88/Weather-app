@@ -91,6 +91,7 @@ input:hover{
 
 .weather-in{
 font-size:1.5rem;
+
 }
 
 .degree{
@@ -100,18 +101,18 @@ font-size:1.5rem;
 
 .description{
     font-size:1rem;
-    font-weight:400;
+    font-weight:300;
     margin-top:1.6rem;
 }
 
 .humidity{
-margin-top: 1rem;
+margin-top: 1.2rem;
 font-weight:400;
-font-size: 0.8rem;
+font-size: 1rem;
 }
 
 .wind{
-    margin-top:0.6rem;
-    font-weight:400;
-    font-size: 0.8rem;
+    margin-top:1rem;
+    font-weight:300;
+    font-size: 1rem;
 }
